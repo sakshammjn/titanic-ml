@@ -1,8 +1,8 @@
-# Titanic Machine Learning Internship Project
+# Titanic Machine Learning Internship Assessment
 
 This repository contains the implementation of two classic machine learning algorithms — **Naive Bayes** and **K-Nearest Neighbors (KNN)** — applied to the Titanic dataset.
 
-## Project Overview
+## Assessment Overview
 
 - The goal is to predict whether a passenger survived the Titanic shipwreck based on features such as age, sex, fare, class, etc.
 - Both algorithms are implemented **from scratch** using Python with **NumPy**, **Pandas**, and **Matplotlib**.
